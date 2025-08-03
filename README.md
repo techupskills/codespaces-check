@@ -23,7 +23,9 @@ The codespace is ready to use when you see a prompt like the one shown below in 
 
 ![Ready to use](./images/ccheck3.png?raw=true "Ready to use")
 
-**4. You can now try some simple commands in the terminal of the codespace. The codespace contains a clone of this repository. Some sample commands are below and you can copy/paste from the gray boxes. (The second command opens a new file.)  Note that you may have to use keyboard commands for this.**
+**4. You can now try some simple commands in the terminal of the codespace.**
+
+The codespace contains a clone of this repository. Some sample commands are below and you can copy/paste from the gray boxes. (The second command opens a new file.)  Note that you may have to use keyboard commands for this.
 
 ```
 ls
@@ -32,6 +34,6 @@ code newfile.txt
 
 ![Running commands](./images/ccheck4.png?raw=true "Running commands")
 
-**5. When you are done with the codespace, you can go to [https://github.com/codespaces](https://github.com/codespaces), scroll down, find your codespace, click the "..." on the right side and then select "Delete" to remove it.
+**5. When you are done with the codespace, you can go to [https://github.com/codespaces](https://github.com/codespaces), scroll down, find your codespace, click the "..." on the right side and then select "Delete" to remove it.**
 
 ![Removing codespace](./images/ccheck5.png?raw=true "Removing codespace")
